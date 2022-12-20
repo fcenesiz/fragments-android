@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Fragments"
 include ':basic-examples'
+include ':send-data-to-fragment'
+include ':send-data-to-activity'
+include ':send-data-fragment-to-fragment'

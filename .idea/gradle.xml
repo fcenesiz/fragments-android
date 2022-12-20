@@ -11,6 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/basic-examples" />
+            <option value="$PROJECT_DIR$/send-data-fragment-to-fragment" />
+            <option value="$PROJECT_DIR$/send-data-to-activity" />
+            <option value="$PROJECT_DIR$/send-data-to-fragment" />
           </set>
         </option>
       </GradleProjectSettings>

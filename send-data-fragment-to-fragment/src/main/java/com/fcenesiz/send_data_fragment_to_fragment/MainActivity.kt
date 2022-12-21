@@ -31,4 +31,6 @@ class MainActivity : AppCompatActivity(), DataListener {
         val fragmentB = supportFragmentManager.findFragmentByTag("FRAGMENT_B") as FragmentB
         fragmentB.addTwoNumbers(n1, n2)
     }
+
+
 }

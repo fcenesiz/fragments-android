@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/send-data-fragment-to-fragment" />
             <option value="$PROJECT_DIR$/send-data-to-activity" />
             <option value="$PROJECT_DIR$/send-data-to-fragment" />
+            <option value="$PROJECT_DIR$/send-data-with-green-robot" />
           </set>
         </option>
       </GradleProjectSettings>
